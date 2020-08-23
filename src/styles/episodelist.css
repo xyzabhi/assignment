@@ -1,0 +1,15 @@
+.episodelist {
+  margin: auto;
+}
+.pagination {
+  width: 50px;
+  height: 40px;
+  color: Black;
+  border: solid black 1px;
+  background-color: yellow;
+}
+.errormsg {
+  font-size: "monospace";
+  color: black;
+  font-size: 30px;
+}
